@@ -22,10 +22,10 @@ app.use(cors({
     }
 }));
 
-const fullName = 'KEERTHI GURUGUBELLI';
-const dob = '15072004';
-const email = 'gg0692@srmist.edu.in';
-const rollNumber = 'RA2111030010093';
+const fullName = 'NUTHALAPATI ROHITH';
+const dob = '31052004';
+const email = 'nn8903@srmist.edu.in';
+const rollNumber = 'RA2111003010863';
 
 function separateData(data) {
     const numbers = [];
